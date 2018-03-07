@@ -3,9 +3,9 @@
   <main class="main" role="main">
 
     <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
+      <h1>Kirby FacebookEvents Plugin Example</h1>
       <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
+        Yay!
       </div>
       <hr />
     </header>

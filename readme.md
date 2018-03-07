@@ -23,3 +23,9 @@ If you have trouble setting the plugin up you can take this repository as a star
 ```
 
 4. Open the project on your server e.g. by browsing `http://localhost/FacebookEventsExample`
+
+## How do I know if it works?
+
+If everything got setup correctly you should see a page like this:
+
+![fbe_screenshot.png](fbe_screenshot.png)

@@ -1,4 +1,4 @@
-# Kirby Facebook-Events Example Project
+# Kirby Facebook-Events Example Project (Deprecated)
 
 This is an example of the Kirby [FacebookEvents plugin](https://github.com/Andi-Lo/kirby-FacebookEvents). It uses Kirby starterkit v2.5.9.
 If you have trouble setting the plugin up you can take this repository as a starting point for your own project.
